@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+p, ul, ol {
+    color: #555;
+}
+
+.background-change-1 {
+    background-color: #0000ff;
+}
+
+.background-change-2 {
+    background-color: #1cf127;
+}
+
+.text-change-1 {
+    color: #ffffff;
+}
+
+.text-change-2 {
+    color: #000000;
+}
+
+button {
+    background-color: #e74c3c;
+    color: white;
+    appearance: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    padding: 12px;
+    min-width: 100px;
+    border: 0px;
+    border-radius: 8px;
+    transition: background-color 100ms linear;
+}
+
+button:hover {
+    background: #c0392b;
+    color: #ffffff;
+}
+
+
+
